@@ -142,8 +142,8 @@ blockquote p {
 }
 @font-face {
     font-family: 'sophia_extbold';
-    src: url('/wp-content/themes/barletta/fonts/sophiaext-bold-webfont.woff2') format('woff2'),
-         url('/wp-content/themes/barletta/fonts/sophiaext-bold-webfont.woff') format('woff');
+    src: url('sophiaext-bold-webfont.woff2') format('woff2'),
+         url('sophiaext-bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -154,8 +154,8 @@ blockquote p {
 
 @font-face {
     font-family: 'sophia_extmedium';
-    src: url('/wp-content/themes/barletta/fonts/sophiaext-medium-webfont.woff2') format('woff2'),
-         url('/wp-content/themes/barletta/fonts/sophiaext-medium-webfont.woff') format('woff');
+    src: url('sophiaext-medium-webfont.woff2') format('woff2'),
+         url('sophiaext-medium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
