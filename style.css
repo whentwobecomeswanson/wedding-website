@@ -2436,8 +2436,8 @@ ul.instagram-pics li {
 
 @font-face {
     font-family: 'sophia_extregular';
-    src: url('/wp-content/themes/barletta/fonts/sophiaext-regular-webfont.woff2') format('woff2'),
-         url('/wp-content/themes/barletta/fonts/sophiaext-regular-webfont.woff') format('woff');
+    src: url('sophiaext-regular-webfont.woff2') format('woff2'),
+         url('sophiaext-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -2448,8 +2448,8 @@ ul.instagram-pics li {
 
 @font-face {
     font-family: 'sophia_scriptbold';
-    src: url('/wp-content/themes/barletta/fonts/sophiascript-bold-webfont.woff2') format('woff2'),
-         url('/wp-content/themes/barletta/fonts/sophiascript-bold-webfont.woff') format('woff');
+    src: url('sophiascript-bold-webfont.woff2') format('woff2'),
+         url('sophiascript-bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -2460,8 +2460,8 @@ ul.instagram-pics li {
 
 @font-face {
     font-family: 'sophia_scriptextrabold';
-    src: url('/wp-content/themes/barletta/fonts/sophiascript-extrabold-webfont.woff2') format('woff2'),
-         url('/wp-content/themes/barletta/fonts/sophiascript-extrabold-webfont.woff') format('woff');
+    src: url('sophiascript-extrabold-webfont.woff2') format('woff2'),
+         url('sophiascript-extrabold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -2472,8 +2472,8 @@ ul.instagram-pics li {
 
 @font-face {
     font-family: 'sophia_scriptmedium';
-    src: url('/wp-content/themes/barletta/fonts/sophiascript-medium-webfont.woff2') format('woff2'),
-         url('/wp-content/themes/barletta/fonts/sophiascript-medium-webfont.woff') format('woff');
+    src: url('sophiascript-medium-webfont.woff2') format('woff2'),
+         url('sophiascript-medium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -2484,8 +2484,8 @@ ul.instagram-pics li {
 
 @font-face {
     font-family: 'sophia_scriptregular';
-    src: url('/wp-content/themes/barletta/fonts/sophiascript-regular-webfont.woff2') format('woff2'),
-         url('/wp-content/themes/barletta/fonts/sophiascript-regular-webfont.woff') format('woff');
+    src: url('sophiascript-regular-webfont.woff2') format('woff2'),
+         url('sophiascript-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
